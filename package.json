@@ -1,0 +1,42 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "dev0": "node 0-main.js",
+    "dev1": "node 1-main.js",
+    "dev2": "node 2-main.js",
+    "dev3": "node 3-main.js",
+    "dev4": "node 4-main.js",
+    "dev5": "node 5-main.js",
+    "dev6": "node 6-main.js",
+    "dev7": "node 7-main.js",
+    "dev8": "node 8-main.js",
+    "dev9": "node 9-main.js",
+    "dev10": "node 10-main.js",
+    "dev11": "node 11-main.js",
+    "dev12": "node 12-main.js",
+
+
+
+    "start": "npm run dev0 && npm run dev1 && npm run dev2 && npm run dev3 && npm run dev4 && npm run dev5 && npm run dev6 && npm run dev7  && npm run dev8  && npm run dev9  && npm run dev10  && npm run dev11  && npm run dev12"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@eslint/js": "^9.5.0",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0",
+    "jest": "^29.7.0"
+  }
+}
